@@ -24,6 +24,16 @@ Vite
 
 ### How to run  
 Clone the repo to your machine  
-Install dependencies - npm install
-Run the JSON server - npm run server
-Run the development server - npm run dev
+Install dependencies    
+```shell
+npm install
+```  
+Run the JSON server  
+```shell
+npm run server
+```    
+Run the development server
+```shell
+npm run dev
+```  
+
